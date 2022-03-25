@@ -1,4 +1,4 @@
-# Resnet_5Mpara
+# Resnet_5M
 <!-- Created Resnet architecture with parameters less than 5M  -->
 <!-- #Running the python File -->
 
